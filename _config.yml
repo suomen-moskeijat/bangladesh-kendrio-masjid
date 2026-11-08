@@ -1,0 +1,10 @@
+# Bangladesh Kendrio Masjid – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Bangladesh Kendrio Masjid"
+description: "Bangladesh Kendrio Masjid, Sirrikuja 1 B, 00940 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: bangladesh-kendrio-masjid     # tiedosto _moskeijat/bangladesh-kendrio-masjid.md
+
+# Osoite: https://suomen-moskeijat.github.io/bangladesh-kendrio-masjid/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/bangladesh-kendrio-masjid"
